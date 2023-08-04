@@ -31,7 +31,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=butterbeetle&hide=contribs&rank_icon=github&show_icons=true&theme=neon#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterbeetle&layout=compact&theme=neon&langs_count=8&card_width=450" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterbeetle&layout=compact&theme=neon&langs_count=8&card_width=452" />
 </a>
 
 </div>
